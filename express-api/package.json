@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "node app/app.mjs"
+  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
